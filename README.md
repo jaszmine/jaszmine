@@ -1,4 +1,4 @@
-# aloha :)
+# aloha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> I'm Jaszmine :)
 
 <!--
 **jaszmine/jaszmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="right" width="300" height="200" src="https://i.imgur.com/wqmADSk.gif">
+
+### Some stuff about me
+- 🔭 I'm currently studying Computer Science at UT Dallas
+- 🌱 I like plants
+- 😀 tbh idk much about coding but I think it's pretty cool so far & I enjoy building and learning new things!
+
+
 ### Holopin Board
 I saw this on some friends' profiles and thought it was cool so here's mine:
 [![@jdefranco's Holopin board](https://holopin.me/jdefranco)](https://holopin.io/@jdefranco)
 
-### Some fun stuff
+### Some other fun stuff
 
 <table width="100%"> 
   <tr>
-    <td> Currently Listening to: </td>
-    <td> Github Stats </td>
+    <td> 🎵 Currently Listening to: </td>
+    <td> ✨ Github Stats </td>
   </tr>
   <tr>
   
