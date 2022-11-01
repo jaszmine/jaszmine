@@ -35,7 +35,7 @@ I saw this on some friends' profiles and thought it was cool so here's mine:
   </td>
   
   <td width="50%">
-    <img width=500 src="https://server.dooboo.io/github-stats/jaszmine" alt="Jaszmine's github stats" />
+    <img width=600 src="https://server.dooboo.io/github-stats/jaszmine" alt="Jaszmine's github stats" />
   </td>
   
 </table>
