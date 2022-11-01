@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 
 <a href="https://html.com/" target="_blank"><img align="left" alt="html" height ="42px" src="https://i.imgur.com/DflpiOQ.png"></a>
-<a href="[https://html.com/](https://www.w3schools.com/css/)" target="_blank"><img align="left" alt="css" height ="42px" src="https://i.imgur.com/6J8sai3.png"></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="css" height ="42px" src="https://i.imgur.com/6J8sai3.png"></a>
 
 <br>
 <br>
