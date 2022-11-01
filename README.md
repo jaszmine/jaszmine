@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-https://open.spotify.com/user/jaszymine
 -->
 
 ### Holopin Board
@@ -31,9 +29,8 @@ I saw this on some friends' profiles and thought it was cool so here's mine:
   <tr>
   
   <td width="50%">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jaszymine&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color_cover=false&bar_color=5900ff)](https://open.spotify.com/user/jaszymine?si=2dbdfd16421b4c0e)
-   
+    
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jaszymine&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color_cover=false&bar_color=5900ff)](https://open.spotify.com/user/jaszymine)
 
   </td>
   
