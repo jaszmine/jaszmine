@@ -22,6 +22,31 @@ Here are some ideas to get you started:
 - 🌱 I like plants
 - 😀 tbh idk much about coding but I think it's pretty cool so far & I enjoy building and learning new things!
 
+### Languages & Tools I've Been Learning
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+<a href="https://ghidra-sre.org/" target="_blank"> <img align="left" src="https://i.imgur.com/uJYLV0q.png" alt="ghidra" height="42px"/> </a> 
+<a href="https://www.postman.com/" target="_blank"> <img align="left" src="https://i.imgur.com/MotSklp.png" alt="postman" height="42px"/> </a> 
+
+<a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://i.imgur.com/6Cvi8j4.png" alt="docker" height="42px"/> </a> 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="C++" height ="42px" src="https://i.imgur.com/o53NjLr.png"></a>
+
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+
+<a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_content=1217adtest_pmcopy_control&utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_amers-us_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624338&adgroup=115749704103&gclid=CjwKCAjwh4ObBhAzEiwAHzZYU2Gir1PCz2nrCUSTaoj9YIFiMNmpW8kLl8sT4Xhr5jlKQW2m55D7yRoCO4sQAvD_BwE" target="_blank"> <img align="left" alt="MongoDB" height ="42px" src="https://i.imgur.com/t21HBls.png"></a>
+<a href="https://expressjs.com/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://i.imgur.com/BkatTZh.png"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://i.imgur.com/uz4BqHY.png"></a>
+
+<a href="https://opencv.org/" target="_blank"> <img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+
+<br>
+
 
 ### Holopin Board
 I saw this on some friends' profiles and thought it was cool so here's mine:
