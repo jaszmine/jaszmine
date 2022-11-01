@@ -23,7 +23,7 @@ I saw this on some friends' profiles and thought it was cool so here's mine:
 
 <table width="100%"> 
   <tr>
-    <td> Spotify!! </td>
+    <td> Currently Listening to: </td>
     <td> Github Stats </td>
   </tr>
   <tr>
