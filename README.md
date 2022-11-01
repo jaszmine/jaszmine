@@ -1,4 +1,4 @@
-### Hi there 👋
+### aloha :)
 
 <!--
 **jaszmine/jaszmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I saw this on some friend's profiles and thought it was cool so here's mine:
+[![@jdefranco's Holopin board](https://holopin.me/jdefranco)](https://holopin.io/@jdefranco)
