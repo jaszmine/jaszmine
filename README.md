@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I saw this on some friend's profiles and thought it was cool so here's mine:
+I saw this on some friends' profiles and thought it was cool so here's mine:
 [![@jdefranco's Holopin board](https://holopin.me/jdefranco)](https://holopin.io/@jdefranco)
