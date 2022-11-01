@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 I saw this on some friends' profiles and thought it was cool so here's my holopin board:
 [![@jdefranco's Holopin board](https://holopin.me/jdefranco)](https://holopin.io/@jdefranco)
+
+### Some fun stats
+<img width=500 src="https://server.dooboo.io/github-stats/jaszmine" alt="Jaszmine's github stats" />
