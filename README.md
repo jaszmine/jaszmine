@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Some stuff about me
 - 🔭 I'm currently studying Computer Science at UT Dallas
 - 🌱 I like plants
-- 😀 tbh idk much about coding but I think it's pretty cool so far & I enjoy building and learning new things!
+- 😀 I enjoy building and learning new things!
 
 ### Languages I've Been Learning
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
