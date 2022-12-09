@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 <a href="https://html.com/" target="_blank"><img align="left" alt="html" height ="42px" src="https://i.imgur.com/DflpiOQ.png"></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="css" height ="42px" src="https://i.imgur.com/6J8sai3.png"></a>
 
+<a href="https://www.ruby-lang.org/en/" target="_blank"><img align="left" alt="ruby" height ="35x" src="https://i.imgur.com/znMYAQj.png"></a>
+
 <br>
 <br>
   
