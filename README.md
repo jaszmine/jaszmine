@@ -64,7 +64,7 @@ I saw this on some friends' profiles and thought it was cool so here's mine:
 <table width="100%"> 
   <tr>
     <td> 🎵 Currently Listening to: </td>
-    <td> ✨ Github Stats </td>
+    <td> <!-- ✨ Github Stats --> ✨ Click the button </td>
   </tr>
   <tr>
   
@@ -74,8 +74,11 @@ I saw this on some friends' profiles and thought it was cool so here's mine:
 
   </td>
   
-  <td width="50%">
-    <img width=600 src="https://server.dooboo.io/github-stats/jaszmine" alt="Jaszmine's github stats" />
+  <td width="50%" align="center">
+    <!-- <img width=600 src="https://server.dooboo.io/github-stats/jaszmine" alt="Jaszmine's github stats" /> -->
+    <a href="https://plants.usda.gov/home" target="_blank"><kbd> <br> u won't >:) <br> </kbd></a>
   </td>
+
   
 </table>
+
