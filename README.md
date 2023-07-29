@@ -99,9 +99,4 @@ I saw this on some friends' profiles and thought it was cool so here's mine:
 |   :-:   |   :-:   |   :-:  |
 | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jaszymine&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color_cover=false&bar_color=5900ff)](https://open.spotify.com/user/jaszymine)            | <a href="https://plants.usda.gov/home" target="_blank"><kbd> <br> u won't >:) <br> </kbd></a>        | ![](https://komarev.com/ghpvc/?username=jaszmine&label=Bestie+Broskis&color=8957ff)         |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-<!--![Snake animation](https://github.com/jaszmine/jaszmine/blob/output/github-contribution-grid-snake.svg)-->
+![Snake animation](https://raw.githubusercontent.com/jaszmine/jaszmine/output/github-snake-dark.svg)
