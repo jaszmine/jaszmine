@@ -8,8 +8,6 @@
 - 🌱 I like plants :)
 - 😀 I enjoy building and learning new things!
 
-
-
 ### Languages I've Been Learning
 [![Languages](https://skillicons.dev/icons?i=python,java,ruby,cpp,html,css,js,ts,swift,kotlin)](https://skillicons.dev)
 
@@ -32,10 +30,10 @@
 Raspberry PiArduinoSTM32OpenCV
 
 
+### Holopin Board
+I saw this on some friends' profiles and thought it was cool so here's mine:
+[![@jdefranco's Holopin board](https://holopin.io/api/user/board?user=jdefranco)](https://holopin.io/@jdefranco)
 
-
-Holopin Board
-I saw this on some friends' profiles and thought it was cool so here's mine: @jdefranco's Holopin board
 https://camo.githubusercontent.com/f0a36e0e65159e4a3ec1f0f5c1d0d9c24ef3be9f150498e0234ecd2bb70c5aa0/68747470733a2f2f686f6c6f70696e2e6d652f6a64656672616e636f
 
 Some other fun stuff
