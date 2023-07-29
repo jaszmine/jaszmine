@@ -1,26 +1,31 @@
-# aloha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24" height="23"/> I'm Jaszmine :)
+## aloha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24" height="23"/> I'm Jaszmine :)
 
 ### Some stuff about me
 - 🔭 I'm currently studying Computer Science at UT Dallas
 - ⚛️ I have an interest in the field of Quantum Computing
 - 🌱 I like plants :)
 - 😀 I enjoy building and learning new things!
+![](https://camo.githubusercontent.com/098657616685a2ce0021daf8739bf25d258c73dd39ed2c0eb6f0aabf6c92fe72/68747470733a2f2f692e696d6775722e636f6d2f77716d4144536b2e676966)
 
 ### Languages I've Been Learning
-[![My Skills](https://skillicons.dev/icons?i=python,java,ruby,cpp,html,css,js,ts,swift,kotlin)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,ruby,cpp,html,css,js,ts,swift,kotlin)](https://skillicons.dev)
 
-Tools I've Been Using
-Git GithubActions Postman Docker Firebase Linux QT Tensorflow
+### Tools I've Been Using
+[![Tools1](https://skillicons.dev/icons?i=git,githubactions,postman,docker,firebase,linux,qt,tensorflow)](https://skillicons.dev)
 
-MongoDB Express React NodeJS
+[![Tools2](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://skillicons.dev)
 
-Figma Unity Blender Tailwind Sass Bootstrap
+[![Tools3](https://skillicons.dev/icons?i=figma,unity,blender,tailwind,sass,bootstrap)](https://skillicons.dev)
 
-AWS Azure
+[![Tools4](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
 
-Java Processing Ruby on Rails
+[![Tools5](https://skillicons.dev/icons?i=processing,rails)](https://skillicons.dev)
 
-Hardware
+### Hardware
+
+[![Hardware](https://skillicons.dev/icons?i=raspberrypi,arduino)](https://skillicons.dev)
+<img src="https://camo.githubusercontent.com/29e7204a78bc039e67b919f2001fc48730f96d3c402181f96e33e460acfea776/68747470733a2f2f692e696d6775722e636f6d2f314f786f6170742e706e67" width=42 height=42>
+
 Raspberry PiArduinoSTM32OpenCV
 
 
