@@ -91,7 +91,7 @@ I saw this on some friends' profiles and thought it was cool so here's mine:
 
 ### Some other fun stuff
   
-<!-- ✨ Github Stats -->
+<!-- ✨ Github Stats --> 
 <!-- <img width=600 src="https://server.dooboo.io/github-stats/jaszmine" alt="Jaszmine's github stats" /> -->
 
   
