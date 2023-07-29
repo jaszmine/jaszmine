@@ -1,11 +1,16 @@
 ## aloha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24" height="23"/> I'm Jaszmine :)
 
 ### Some stuff about me
-- 🔭 I'm currently studying Computer Science at UT Dallas
-- ⚛️ I have an interest in the field of Quantum Computing
-- 🌱 I like plants :)
+<p align="center">
+<img src="https://camo.githubusercontent.com/098657616685a2ce0021daf8739bf25d258c73dd39ed2c0eb6f0aabf6c92fe72/68747470733a2f2f692e696d6775722e636f6d2f77716d4144536b2e676966" width="300" align="right"/>
+</p>
+- 🔭 I'm currently studying Computer Science at UT Dallas</li>
+- ⚛️ I have an interest in the field of Quantum Computing</li>
+- 🌱 I like plants :)</li>
 - 😀 I enjoy building and learning new things!
-![](https://camo.githubusercontent.com/098657616685a2ce0021daf8739bf25d258c73dd39ed2c0eb6f0aabf6c92fe72/68747470733a2f2f692e696d6775722e636f6d2f77716d4144536b2e676966)
+
+
+
 
 ### Languages I've Been Learning
 [![Languages](https://skillicons.dev/icons?i=python,java,ruby,cpp,html,css,js,ts,swift,kotlin)](https://skillicons.dev)
