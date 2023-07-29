@@ -6,8 +6,8 @@
 - 🌱 I like plants :)
 - 😀 I enjoy building and learning new things!
 
-Languages I've Been Learning
-Python Java Ruby CPP HTML CSS JavaScript TypeScript Swift Kotlin
+### Languages I've Been Learning
+[![My Skills](https://skillicons.dev/icons?i=python,java,ruby,cpp,html,css,js,ts,swift,kotlin)](https://skillicons.dev)
 
 Tools I've Been Using
 Git GithubActions Postman Docker Firebase Linux QT Tensorflow
