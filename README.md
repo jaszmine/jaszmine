@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 | <img width="113" height="89" alt="Screenshot 2025-10-22 at 7 20 31 AM" src="https://github.com/user-attachments/assets/67c444d6-e485-4d5b-aa71-4ae68708a8bf" /> | [![Ruby](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org/en/documentation/) [![Swift](https://skillicons.dev/icons?i=swift)](https://www.swift.org/documentation/) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/docs/) [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/) [![Azure](https://skillicons.dev/icons?i=azure)](https://learn.microsoft.com/en-us/azure/?product=popular)  [![Java Processing](https://skillicons.dev/icons?i=processing)](https://processing.org/reference/) [![Ruby on Rails](https://skillicons.dev/icons?i=rails)](https://guides.rubyonrails.org/) [![Emacs](https://skillicons.dev/icons?i=emacs)](https://www.gnu.org/software/emacs/documentation.html) [![Vim](https://skillicons.dev/icons?i=vim)](https://www.vim.org/)  |
 | <img width="113" height="88" alt="Screenshot 2025-10-22 at 7 20 43 AM" src="https://github.com/user-attachments/assets/131a3f89-a537-4e9b-80b4-268bf35127bc" /> | [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/docs/home.html) [![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://eclipseide.org/getting-started/) |
 | <img width="112" height="90" alt="Screenshot 2025-10-22 at 7 20 55 AM" src="https://github.com/user-attachments/assets/07c439bb-9ce7-4638-ac93-69ff9723edfe" /> | [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaszmine-defranco/) |
-
-<br>
+<!-- Add RocketPy, Google Colab, Jupyter notebooks -->
 
 ### Tools I'm Planning to Try Out (and have heard good things about):
  [![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://help.obsidian.md/)
@@ -45,11 +44,12 @@ Here are some ideas to get you started:
  [![Svelte](https://skillicons.dev/icons?i=svelte)](https://svelte.dev/)
  
 <br>
-<br>
 
 ### Holopin Board
 I saw this on some friends' profiles and thought it was cool so here's mine:
 [![@jdefranco's Holopin board](https://holopin.me/jdefranco)](https://holopin.io/@jdefranco)
+
+<br>
 
 ### Some other fun stuff
   
