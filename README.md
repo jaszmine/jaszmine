@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br>
 
 ### Tools I'm Planning to Try Out (and have heard good things about):
- [![Obsideon](https://skillicons.dev/icons?i=obsideon)](https://help.obsidian.md/)
+ [![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://help.obsidian.md/)
  [![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io/docs)
  [![Svelte](https://skillicons.dev/icons?i=svelte)](https://svelte.dev/)
  
