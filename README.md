@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### I used to have a "Languages I've Been Learning, Tools I've Been Using, and Hardware" section, but now instead, please enjoy my ranking of such tools I've encountered:
 <!--[![Langs](https://skillicons.dev/icons?i=py,java,ruby,cpp,html,css,js,ts,swift,kotlin)](https://skillicons.dev)-->
-> Note: IN NO PARTICULAR ORDER, I've included languages, IDEs, text editors, Linux distributions, version control tools, frameworks and more.
+> Note: In random ish order, I've included languages, IDEs, text editors, Linux distributions, version control tools, frameworks and more.
 > Ratings are based off of my personal development experience, tool integrations, community/support, ease of use, pricing, maintenance, and of course my own completely error-free opinion ✨
 
 |  |  |
