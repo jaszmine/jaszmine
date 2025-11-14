@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Some stuff about me
 - 🔭 I'm currently studying Computer Science at UT Dallas
-- ⚛️ I have an interest in the field of Quantum Computing & Aerospace!
+- ⚛️ I have an interest in the fields of Quantum Computing & Aerospace! 🚀
 - 🌱 I like plants :)
 - 😀 I enjoy building and learning new things!
 
