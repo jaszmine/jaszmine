@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I like plants :)
 - 😀 I enjoy building and learning new things!
 
-### The official ranking (of some tools I've used enough to have an opinion on):
+### The official ranking <br> (of some tools I've used enough to have an opinion on):
 <!--[![Langs](https://skillicons.dev/icons?i=py,java,ruby,cpp,html,css,js,ts,swift,kotlin)](https://skillicons.dev)-->
 > Note: In random ish order, I've included languages, IDEs, text editors, Linux distributions, version control tools, frameworks and more.
 > Ratings are based off of my personal development experience, tool integrations, community/support, ease of use, pricing, maintenance, and of course my own completely error-free opinion ✨
