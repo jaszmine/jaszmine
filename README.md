@@ -64,6 +64,6 @@ I saw this on some friends' profiles and thought it was cool so here's mine:
   
 | 🎧🎤 Currently Listening to: | ✨ Click the button | 🦑 A number |
 |   :-:   |   :-:   |   :-:  |
-| Wouldn't u like w know | <a href="https://plants.usda.gov/home" target="_blank"><kbd> <br> u won't >:) <br> </kbd></a>        | ![](https://komarev.com/ghpvc/?username=jaszmine&label=Bestie+Broskis&color=8957ff)         |
+| Wouldn't u like 2 know | <a href="https://plants.usda.gov/home" target="_blank"><kbd> <br> u won't >:) <br> </kbd></a>        | ![](https://komarev.com/ghpvc/?username=jaszmine&label=Bestie+Broskis&color=8957ff)         |
 
 ![Snake animation](https://raw.githubusercontent.com/jaszmine/jaszmine/output/github-snake-dark.svg)
