@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Some stuff about me
 - 🔭 Recent UT Dallas Computer Science graduate.
-- ⚛️ I have an interest in Quantum Computing, Machine Learning, & Aerospace! 🚀
+- ⚛️ I'm interested in Quantum Computing, Machine Learning, & Aerospace! 🚀
 - 🌱 I like plants :)
 - 😀 I enjoy building and learning new things!
 
